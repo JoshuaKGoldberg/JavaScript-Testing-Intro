@@ -4,6 +4,7 @@ This is the source code for a talk given by [Josh Goldberg](jogol@microsoft.com)
 That's me.
 
 I'll cover common basic testing practices and protips for JavaScript:
+
 1. Basic Terms
 2. Mocha
 3. Chai
@@ -30,6 +31,7 @@ npm install chai sinon
 ### Teaching approach
 
 Many other lessons follow a standard formula:
+
 1. Define *(this is the definition of X, and it does Y)*
 2. Showcase *(here is how and why X is used to Y)*
 
