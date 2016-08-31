@@ -21,10 +21,10 @@ All the source code here is on [my Github](https://github.com/JoshuaKGoldberg/Ja
 Markdown code samples are approximate subsets of `.js` files in the same section.
 You'll want to play along by running the test files using `mocha path/to/test.js`.
 
-First install the prerequisite libraries:
+First install the prerequisite libraries.
 
 ```cmd
-npm install -g mocha
+npm install -g mocha cucumber
 npm install chai sinon
 ```
 
