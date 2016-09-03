@@ -2,24 +2,14 @@
 
 Fully interactive section!
 
-*(I promise this is the only one)*
+*(these were "filled out by the audience")*
 
 ### Why do we write tests?
 
-*(to be filled out with the audience)*
-
-### How much time should we spend on testing?
-
-*(to be filled out with the audience)*
+* So stuff doesn't break unexpectedly (and if it does you catch it)
+* Documentation
+* To protect your features
 
 ### What do good tests look like?
 
-*(to be filled out with the audience)*
-
-### What do bad tests look like?
-
-*(to be filled out with the audience)*
-
-### What is Test-Driven Development (TDD)?
-
-*(to be filled out with the audience)*
+They describe what they're testing, then test it.

@@ -39,3 +39,8 @@ Many other lessons follow a standard formula:
 I don't like that because you spend the first step wondering how or why something is used, then the next step trying to link usage back to the definition.
 Thus most of the samples here are in the reverse order.
 We'll showcase *why* situations call for certain things, *then* define how to use those things.
+
+
+---
+
+*ETA for Cucumber being added: 9/1 or 9/2*
