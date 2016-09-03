@@ -13,6 +13,13 @@ class Logger {
     }
 
     /**
+     * @returns {Object[]}   Logs from the internal telemetry database.
+     */
+    getLogs() {
+        return this.logs;
+    }
+
+    /**
      * Queues a message to be logged.
      * 
      * @param {string} message   A message to log.

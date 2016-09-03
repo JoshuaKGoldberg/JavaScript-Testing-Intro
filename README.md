@@ -10,7 +10,8 @@ I'll cover common basic testing practices and protips for JavaScript:
 3. Chai
 4. Avoiding Singletons
 5. Sinon
-6. Further Reading
+6. Cucumber
+7. Further Reading
 
 All the source code here is on [my Github](https://github.com/JoshuaKGoldberg/JavaScript-Testing-Intro).
 
