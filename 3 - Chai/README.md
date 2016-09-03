@@ -131,7 +131,7 @@ It's the concept of describing the *behavior* of your components using something
 
 The `expect` line above somewhat reads like `"expect two plus two to be equal to four"`.
 
-*True* BDD with plain-text English gets explored in a later section *(get excited!)* but for now we're more interested in how we can use Chai to prettify our assertions.
+*True* BDD with plain-text English is a bit out of scope, but for now we're more interested in how we can use Chai to prettify our assertions.
 
 We talked earlier about how tests should describe what they're testing cleanly and concisely.
 BDD-style assertions are an extension of this methodology.
