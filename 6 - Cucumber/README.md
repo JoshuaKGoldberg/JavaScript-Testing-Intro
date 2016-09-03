@@ -73,10 +73,8 @@ Defining a step takes in a string or regular expression with a callback to run.
 ```javascript
 // Arrange: Create a new Fibonacci in the calling scope (more on that later)
 this.Given("I have a new Fibonacci generator", function () {
-    this.generator = new Fibonacci(
-        logged => {
-            this.logs.push(logged);
-        });
+    this.logger = new Logger();
+    this.generator = new Fibonacci(this.logger);
 });
 ```
 
